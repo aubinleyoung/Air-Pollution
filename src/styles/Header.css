@@ -1,0 +1,24 @@
+.nav-links {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #ec4c8b;
+  height: 50px;
+
+
+
+}
+
+.nav-links ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 10px 0px 10px;
+}
+
+.nav-links ul a {
+  color: white;
+  text-decoration: none;
+
+}
