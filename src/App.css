@@ -1,9 +1,8 @@
 .App {
-background: gray;
-position: absolute;
-left: 0;
-right: 0;
-height: 100vh;
-text-align: center;
+  background: gray;
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 100vh;
+  text-align: center;
 }
-

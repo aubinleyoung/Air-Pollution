@@ -101,13 +101,11 @@ For tracking linter errors locally you need to follow these steps:
 ## 👥 Authors <a name="authors"></a>
 
 
-
-
 👤 **Aubin SIMPEZE**
 
-- GitHub: [@githubhandle](https://github.com/aubinleyoung)
-- Twitter: [@twitterhandle](https://twitter.com/Aubin_Simpeze)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aubin-simpeze/)
+- GitHub: [@aubinleyoung](https://github.com/aubinleyoung)
+- Twitter: [@Aubin_Simpeze](https://twitter.com/Aubin_Simpeze)
+- LinkedIn: [@Aubin-Simpeze](https://www.linkedin.com/in/aubin-simpeze/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
