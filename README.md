@@ -1,12 +1,81 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# 📗 Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-## Available Scripts
+<!-- PROJECT DESCRIPTION -->
 
-In the project directory, you can run:
+# 📖 [Air-Pollution] <a name="about-project"></a>
 
-### `npm start`
+**[Air-Pollution]** is a mobile web application to  provides current, forecast, and historical air pollution data for any coordinates on the globe.
+
+## 🛠 Built With <a name="built-with"></a>
+- **[React]**
+- **[Redux]**
+- **[]**
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[]**
+- **[]**
+- **[]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+
+### Prerequisites
+
+In order to run this project :
+
+1. Make sure you have `Git installed` in your Computer or Install it by following [these steps](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
+
+### Setup
+
+Clone this repository to your desired folder:
+
+1. Download the zip file or 
+2. clone with this command `git clone https://github.com/aubinleyoung/air-pollution.git`
+3. cd Awesome-Books
+
+### Usage
+
+- After cloning the project in the project directory you need to run this command
+  > npm install
+   `This command will download all the dependencies of the project`
+
+  > npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,57 +83,80 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### Run tests
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+For tracking linter errors locally you need to follow these steps:
 
-### `npm run build`
+- For tracking the linter errors in components files run:
+  >npx eslint "**/*.{js,jsx}"
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- For tracking the linter errors in CSS file run:
+  > npx stylelint "**/*.{css,scss}"
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run eject`
+<!-- AUTHORS -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 👥 Authors <a name="authors"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+👤 **Aubin SIMPEZE**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- GitHub: [@githubhandle](https://github.com/aubinleyoung)
+- Twitter: [@twitterhandle](https://twitter.com/Aubin_Simpeze)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aubin-simpeze/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
+<!-- FUTURE FEATURES -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🔭 Future Features <a name="future-features"></a>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **[]**
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
+<!-- CONTRIBUTING -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🤝 Contributing <a name="contributing"></a>
 
-### Deployment
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Feel free to check the [issues page](https://github.com/aubinleyoung/air-pollution/issues).
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Hat tip to [Microvers](www.microverse.org)  and all the staff
+- Thanks to My coding Partner
+- Thanks to My Morning-session-group and Standup-team Partners and
+- Thanks to Code Reviewers
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
