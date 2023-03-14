@@ -1,16 +1,19 @@
-import './App.css';
 import { Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Home from './components/Home';
-import Details from './components/Details';
+import HeroSection from './components/hero/HeroSection';
+import Header from './components/header/Header';
+import SearchField from './components/searchSection/SearchField';
+import PollutionData from './components/pollutionDataPage/PollutionData';
 
 function App() {
   return (
-    <div className="App">
+    <div className="w-full h-fit bg-[#d04379]">
+
       <Header />
+      <HeroSection />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/details" element={<Details />} />
+        <Route exact path="/" element={<SearchField />} />
+        <Route exact path="/country/:id" element={<SearchField />} />
+        <Route path="/pollution/:id" element={<PollutionData />} />
       </Routes>
     </div>
   );
