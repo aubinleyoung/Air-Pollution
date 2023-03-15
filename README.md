@@ -25,9 +25,14 @@
 **[Air-Pollution]** is a mobile web application to  provides current, forecast, and historical air pollution data for any coordinates on the globe.
 
 ## 🛠 Built With <a name="built-with"></a>
-- **[React]**
-- **[Redux]**
-- **[]**
+
+
+- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="60" height="60" /> </a>
+- <a href='https://redux.js.org'><img src='https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67' height='60' alt='Redux Logo' aria-label='redux.js.org' /></a>
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 <!-- Features -->
 
