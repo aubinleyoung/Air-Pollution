@@ -6,7 +6,7 @@ import PollutionData from './components/pollutionDataPage/PollutionData';
 
 function App() {
   return (
-    <div className="w-full h-fit bg-[#d04379]">
+    <div className="w-full h-fit bg-[#d04379] text-white">
 
       <Header />
       <HeroSection />

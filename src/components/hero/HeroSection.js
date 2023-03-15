@@ -55,24 +55,24 @@ const HeroSection = () => {
             {' '}
           </span>
           <form className="mt-2 flex flex-col gap-2 w-4/5 ">
-            <select name="selected" ref={selectRef} onChange={setRefState} className="rounded-xl p-1 outline-none">
-              <option>
+            <select name="selected" ref={selectRef} onChange={setRefState} className="rounded-xl p-1 outline-none bg-transparent border-2">
+              <option className="text-[#d04379]">
                 {headNameFormat}
                 {' '}
                 *
                 {' '}
               </option>
-              <option value="Asia"> Asia</option>
-              <option value="Oceania">Oceania </option>
-              <option value="Europe"> Europe </option>
-              <option value="Americas"> Americas</option>
-              <option value="Africa"> Africa</option>
+              <option value="Asia" className="text-[#d04379]"> Asia</option>
+              <option value="Oceania" className="text-[#d04379]">Oceania </option>
+              <option value="Europe" className="text-[#d04379]"> Europe </option>
+              <option value="Americas" className="text-[#d04379]"> Americas</option>
+              <option value="Africa" className="text-[#d04379]"> Africa</option>
             </select>
             <NavLink
               to={`/country/${region}`}
               onClick={(e) => handleFetchCountry(e)}
             >
-              <button type="button" data-testid="button" className="bg-white text-sm p-2 rounded-xl">
+              <button type="button" data-testid="button" className="border-2 text-sm p-2 rounded-xl">
                 {' '}
                 Search Region
               </button>
