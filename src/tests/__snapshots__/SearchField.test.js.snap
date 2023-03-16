@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero Component Snapshot Pollution 1`] = `
+<div
+  className=""
+>
+  <h4
+    className="py-5 px-5 text-white font-bold"
+    data-testid="search"
+  >
+     
+    STATES BY COUNTRY
+     
+  </h4>
+  <div
+    className="grid grid-cols-2"
+  >
+     
+  </div>
+  <span
+    css={
+      Object {
+        "map": undefined,
+        "name": "13gkr5z",
+        "next": undefined,
+        "styles": "
+  display: block;
+  margin: 4em auto;
+",
+        "toString": [Function],
+      }
+    }
+    style={
+      Object {
+        "display": "inherit",
+        "height": "60px",
+        "position": "relative",
+        "width": "60px",
+      }
+    }
+  >
+    <span
+      style={
+        Object {
+          "animation": "react-spinners-BounceLoader-bounce 2.1s 1s infinite ease-in-out",
+          "animationFillMode": "both",
+          "backgroundColor": "#56deff",
+          "borderRadius": "100%",
+          "height": "60px",
+          "left": 0,
+          "opacity": 0.6,
+          "position": "absolute",
+          "top": 0,
+          "width": "60px",
+        }
+      }
+    />
+    <span
+      style={
+        Object {
+          "animation": "react-spinners-BounceLoader-bounce 2.1s 0s infinite ease-in-out",
+          "animationFillMode": "both",
+          "backgroundColor": "#56deff",
+          "borderRadius": "100%",
+          "height": "60px",
+          "left": 0,
+          "opacity": 0.6,
+          "position": "absolute",
+          "top": 0,
+          "width": "60px",
+        }
+      }
+    />
+  </span>
+</div>
+`;
