@@ -83,7 +83,7 @@ const PollutionData = () => {
         {storeTest ? airRate : 'Unknown'}
         <button type="button" onClick={handleOpenPop} className="rate-btn border-2 rounded-xl text-sm p-2">
           {' '}
-          See Rate
+          See Chart
           {' '}
         </button>
       </div>

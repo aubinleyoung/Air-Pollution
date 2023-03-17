@@ -38,9 +38,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[]**
-- **[]**
-- **[]**
+- **[Users_can_filter_countries_by_continent]**
+- **[Users_can_see_all_countries_on_the_home_page]**
+- **[Users_can_see_the_air_pollution_density_for_a_particular_country_when_clicking_on_it.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@ Clone this repository to your desired folder:
 
 1. Download the zip file or 
 2. clone with this command `git clone https://github.com/aubinleyoung/air-pollution.git`
-3. cd Awesome-Books
+3. cd air-pollution
 
 ### Usage
 
