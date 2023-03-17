@@ -27,9 +27,7 @@
   align-items: center;
 }
 
-
 .img_container {
-
   animation: popAppear 2s ease-in-out;
 }
 
@@ -42,9 +40,11 @@
     transform: scale(1);
   }
 }
-.img_container img{
+
+.img_container img {
   filter: brightness(0) invert(1);
 }
+
 .chart_area {
   width: 80%;
   max-width: 600px;
