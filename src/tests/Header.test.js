@@ -8,7 +8,6 @@ import store from '../redux/configureStore';
 import Header from '../components/header/Header';
 import '@testing-library/jest-dom';
 
-
 afterEach(cleanup);
 describe('Header component test', () => {
   test('Render test', () => {

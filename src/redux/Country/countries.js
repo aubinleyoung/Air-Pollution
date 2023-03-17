@@ -67,7 +67,7 @@ export const fecthCountry = (region) => async (dispatch) => {
     const response = await fetch(
       `https://restcountries.com/v3.1/region/${region}`,
     );
-    console.log('heloooooo', response);
+
     const data = await response.json();
 
     const result = data.map((item) => ({
