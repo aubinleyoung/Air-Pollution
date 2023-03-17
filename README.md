@@ -151,7 +151,7 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Hat tip to [Microvers](www.microverse.org)  and all the staff
-- Thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design] Under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/)
+- Thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the author of the original design under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/)
 - Thanks to My Morning-session-group.
 - Thanks to my Code Reviewers.
 
