@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
+![Image overview](./public/img-view.jpg)
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -49,7 +51,8 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]()
+- ### [Live Demo Link](https://world-air-pollution.netlify.app/)
+- ### [Project overview video](https://www.loom.com/share/27e2c4f4bfe7491ba610d3bb1eafe0bb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +122,8 @@ For tracking linter errors locally you need to follow these steps:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **[]**
+- **[Users_can_search_for_a_country_by_name]**
+- **[Display_countries_flags]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
