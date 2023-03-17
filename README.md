@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
+![Image overview](./public/img-view.jpg)
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -25,17 +27,22 @@
 **[Air-Pollution]** is a mobile web application to  provides current, forecast, and historical air pollution data for any coordinates on the globe.
 
 ## 🛠 Built With <a name="built-with"></a>
-- **[React]**
-- **[Redux]**
-- **[]**
+
+
+- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="60" height="60" /> </a>
+- <a href='https://redux.js.org'><img src='https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67' height='60' alt='Redux Logo' aria-label='redux.js.org' /></a>
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[]**
-- **[]**
-- **[]**
+- **[Users_can_filter_countries_by_continent]**
+- **[Users_can_see_all_countries_on_the_home_page]**
+- **[Users_can_see_the_air_pollution_density_for_a_particular_country_when_clicking_on_it.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -44,7 +51,8 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]()
+- ### [Live Demo Link](https://world-air-pollution.netlify.app/)
+- ### [Project overview video](https://www.loom.com/share/27e2c4f4bfe7491ba610d3bb1eafe0bb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +75,7 @@ Clone this repository to your desired folder:
 
 1. Download the zip file or 
 2. clone with this command `git clone https://github.com/aubinleyoung/air-pollution.git`
-3. cd Awesome-Books
+3. cd air-pollution
 
 ### Usage
 
@@ -114,7 +122,8 @@ For tracking linter errors locally you need to follow these steps:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **[]**
+- **[Users_can_search_for_a_country_by_name]**
+- **[Display_countries_flags]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,9 +151,9 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Hat tip to [Microvers](www.microverse.org)  and all the staff
-- Thanks to My coding Partner
-- Thanks to My Morning-session-group and Standup-team Partners and
-- Thanks to Code Reviewers
+- Thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the author of the original design under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/)
+- Thanks to My Morning-session-group.
+- Thanks to my Code Reviewers.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

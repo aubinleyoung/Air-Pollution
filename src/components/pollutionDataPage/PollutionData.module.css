@@ -1,0 +1,92 @@
+
+.table_container {
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.table_container div {
+  flex-grow: 1;
+}
+
+.space {
+  margin-right: 20px;
+}
+
+.risk_rate button {
+  padding: 5px;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  box-shadow: 2px 1px 1px 2px rgb(221, 207, 207);
+}
+
+.gas_info {
+  display: flex;
+  align-items: center;
+}
+
+.img_container {
+  animation: popAppear 2s ease-in-out;
+}
+
+@keyframes popAppear {
+  from {
+    transform: scale(0);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+.img_container img {
+  filter: brightness(0) invert(1);
+}
+
+.chart_area {
+  width: 80%;
+  max-width: 600px;
+  position: fixed;
+  top: 20%;
+  transform: translateX(20%);
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(11, 33, 73, 0.8);
+}
+
+.chart_area button {
+  border: none;
+  outline: none;
+}
+
+.cancle {
+  color: #fff;
+  font-size: 2.3em;
+  font-weight: bold;
+  background-color: rgb(11, 33, 73);
+  padding-left: 15px;
+  cursor: pointer;
+}
+
+.chart_info {
+  width: 85%;
+  max-width: 340px;
+  margin: 2em auto;
+}
+
+.size_chart {
+  width: 40%;
+  font-size: 1em;
+}
+
+.notActive {
+  display: none;
+}
+
+@media (max-width: 450px) {
+  .chart_area {
+    transform: translateX(12%);
+  }
+}
